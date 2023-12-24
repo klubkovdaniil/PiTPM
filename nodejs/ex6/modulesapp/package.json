@@ -1,0 +1,15 @@
+{
+  "name": "modulesapp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node commands.js",
+    "dev": "node commands.js Даниил 19"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+  
+}
